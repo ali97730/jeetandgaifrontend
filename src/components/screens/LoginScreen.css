@@ -1,0 +1,147 @@
+
+.login {
+  min-height: 100vh;
+ 
+  background-color: rgb(35, 13, 56);
+}
+
+.bg-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(35, 13, 56);
+}
+
+.login-heading {
+  font-weight: 300;
+  color: white;
+}
+.login-screen__subtext{
+  color: white;
+}
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+
+
+/* 
+.form-groupLogin,
+.form-groupLogin label,
+.form-groupLogin input {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.form-groupLogin label {
+  font-size: 1.5rem;
+}
+
+.form-groupLogin input {
+  padding: 10px 20px;
+  border: none;
+  border-bottom: 3px solid transparent;
+  background-color: #eee;
+  outline-width: 0;
+  font-size: 1rem;
+  border-radius: 10px;
+}
+
+.form-groupLogin input:focus {
+  border-bottom: 3px solid rgb(243, 90, 35);
+}
+
+.btn {
+  padding: 10px 20px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 1rem;
+  border: none;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn-primary {
+  background-color: rgb(255, 115, 64);
+  color: #fff;
+}
+
+.error-message {
+  width: 100%;
+  display: inline-block;
+  padding: 5px;
+  background: red;
+  color: #fff;
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+.success-message {
+  width: 100%;
+  display: inline-block;
+  padding: 5px;
+  background: green;
+  color: #fff;
+  text-align: center;
+  margin: 0.5rem 0;
+}
+
+.login-screen {
+  width: 100%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5%;
+  border-radius: 20px;
+  background-color: rgb(35, 13, 56);
+}
+
+.login-screen__form {
+  width: 500px;
+  
+  padding: 1.5rem;
+  background: #fff;
+  height: 80vh;
+  border-radius: 20px ;
+  
+  
+  background-color: rgb(35, 13, 56);
+}
+
+.login-screen__title {
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-top: 10vh;
+}
+
+.login-screen__forgotpassword {
+  font-size: 1rem;
+}
+
+.login-screen__subtext {
+  font-size: 1rem;
+  display: block;
+  margin: 0.5rem 0;
+}
+
+
+.loginimage{
+  width: 30vw;
+  height: 70vh;
+  margin-left: 15%;
+}
+
+.top{
+  height: 80vh;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 5%;
+  color: #eee;
+  border-radius: 20px ;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2); 
+  background-color: rgb(35, 13, 56);
+}
+ */
